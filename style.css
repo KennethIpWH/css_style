@@ -1,0 +1,75 @@
+.legend ul li i div {
+    height: 20px;
+    line-height: 20px;
+    text-align: center;
+    vertical-align: middle;
+    width: 20px;
+}
+
+.legendI i {
+    border-radius: 3px;
+    color: #fff;
+    display: inline-block;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 13px;
+    font-style: normal;
+    padding: 1px 3px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.legend {
+    background: #f6f6f6 none repeat scroll 0 0;
+    box-sizing: border-box;
+    float: left;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 11px;
+    margin: 5px 0 15px;
+    padding: 0;
+    width: 100%;
+}
+
+.legend ul li label {
+    display: inline-block;
+    font-size: 11px;
+    vertical-align: middle;
+}
+
+.legend ul li i {
+    border-radius: 50%;
+    color: #fff;
+    display: inline-block;
+    font-size: 11px;
+    font-style: normal;
+    margin-right: 5px;
+    padding: 2px 5px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.legendIcon i {
+    border-radius: 50%;
+    color: #fff;
+    display: inline-block;
+    font-size: 11px;
+    font-style: normal;
+    margin-right: 1px;
+    padding: 2px 5px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+div#content {
+    margin: 0 auto;
+    text-align: left;
+    width: 1050px;
+}
+
+#returntable {
+    margin-left: 10px;
+    width: 49%;
+}
+
+.w_50 {
+    width: 50% !important;
+}
